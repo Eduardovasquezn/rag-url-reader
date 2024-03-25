@@ -3,7 +3,7 @@ This RAG URL Reader is an application designed to load data from URLs and genera
 context using Large Language Models (LLMs). This application is intended to offer users contextually appropriate 
 responses to their inputs, aiding in information retrieval and facilitating smoother interaction within the 
 given context. It serves as a complement to the concepts discussed in the accompanying 
-[YouTube video](https://www.youtube.com/channel/UCYZ_si4TG801SAuLrNl-v-g), offering a practical implementation 
+[YouTube video](https://youtu.be/YBXD6Kq0-oE), offering a practical implementation 
 of the discussed techniques.
  
 ![RAG URL Reader](images/rag-diagram.png)
